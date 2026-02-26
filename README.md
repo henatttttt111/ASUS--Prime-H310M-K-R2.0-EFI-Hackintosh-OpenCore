@@ -12,14 +12,14 @@
 
 ## 我的配置
 
-|                     | 类别| 型号 |
+| 类别 | 型号| 备注 |
 | ---------------------------- | ---------------------- |------------------|
-| ``MB``| ASUS Prime H310M-K R2.0 |  |
+| ``MB``| ASUS Prime H310M-K R2.0 | 400瓦电源 |
 | ``CPU``| Intel Core i3-8100 3.6GHz |  |
-| ``Memory``| 16GB DDR4-2400MHz |  |
+| ``Memory``| 16GB DDR4-2400MHz | 金士顿 |
 | ``iGPU``| Intel UHD Graphics 630 |  |
-| ``dGPU``| AMD Radeon RX560 |  |
-| ``Wifi and Bluetooth``| Broadcom BCM943602CS |  |
+| ``dGPU``| AMD Radeon RX560 | 蓝宝石 |
+| ``Wifi and Bluetooth``| Broadcom BCM943602CS | 白果卡，在14+需要用OCLP和我Test版本的EFI |
 | ``Ethernet``| RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | Use [RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases). |
 | ``Audio``| Realtek ALC887 | Add `alcid=11` to boot-arg or add layout-id to DeviceProperties. |
 
@@ -40,19 +40,7 @@
 
 | ``功能``|``情况``| 
 |-------------|-----------|
-| ``yin p3``|✅|
-| ``Wifi与Bluetooth``|✅|
-| ``USB端口``|✅已经定制，速率正常|
-| ````|✅|
-| ``Graphics``|✅|
-| ``Power Management``|✅|                                                                        
-| ``USB Port``|✅|
-| ``Facetime and iMessage``|✅|
-| ``Ethernet``|✅|
-| ``Sleep``|✅|
-| ``功能``|``情况``| 
-|-------------|-----------|
-| ``yin p3``|✅|
+| ``音频I/O``|✅|
 | ``Wifi与Bluetooth``|✅|
 | ``USB端口``|✅已经定制，速率正常|
 | ``耳机端口``|✅|
