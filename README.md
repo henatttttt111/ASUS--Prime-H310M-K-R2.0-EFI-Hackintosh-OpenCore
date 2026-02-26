@@ -46,7 +46,7 @@
 | ``耳机端口``|✅|
 | ``图形与加速``|✅|
 | ``电源管理``|✅|                                                                        
-| ``USB Port``|✅|
+| ``Apple VT-D``|✅|
 | ``iCloud 和 AppStore``|✅|
 | ``Facetime和 iMessage``|✅|
 | ``以太网``|✅|
