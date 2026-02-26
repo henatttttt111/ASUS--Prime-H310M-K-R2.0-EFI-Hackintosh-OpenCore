@@ -33,7 +33,7 @@
 |           显卡 | 免驱卡应该都行  |
 |     无线 + 蓝牙 | 博通白果卡和intel网卡                                       |
 |           硬盘 | 这个机器只有SATA，SSD和Nvme应该都行                                       |
-｜         显示器 | 最好选支援HIDPI缩放的，配备DVI，HDMI或者DP的，核显VGA未测试                                 ｜
+|         显示器 | 最好选支援HIDPI缩放的，配备DVI，HDMI或者DP的，核显VGA未测试                                 |
 
 
 ## 工作情况
@@ -51,7 +51,6 @@
 | ``Facetime和 iMessage``|✅|
 | ``以太网``|✅|
 | ``睡眠``|✅|
-| ``DRM``|❗️纯的GPU正常，在dGPU+iGPU状态半正常，需终端执行代码，纯iGPU不正常，仅测试Apple Music和TV|
 
 ## 用前必看
 本EFI分为**Realese**和**Test**两个版本
